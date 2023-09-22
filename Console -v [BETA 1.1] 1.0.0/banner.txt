@@ -1,0 +1,6 @@
+ \clr[red]  ___  \clr[orange]        \clr[yellow]        \clr[green]        \clr[blue]        \clr[cyan]    _    \clr[magenta]        \r[0]         \clr[blue] _ __  \clr[blue]  _  _  \r[0]
+ \clr[red] / __| \clr[orange]   ___  \clr[yellow]  _ _   \clr[green]   ___  \clr[blue]   ___  \clr[cyan]   | |   \clr[magenta]  ___   \r[0]         \clr[blue]| '_ \ \clr[blue] | || | \r[0]
+ \clr[red]| (__  \clr[orange]  / _ \ \clr[yellow] | ' \  \clr[green]  (_-<  \clr[blue]  / _ \ \clr[cyan]   | |   \clr[magenta] / -_)  \r[0]   _     \clr[yellow]| .__/ \clr[yellow]  \_, | \r[0]
+ \clr[red] \___| \clr[orange]  \___/ \clr[yellow] |_||_| \clr[green]  /__/_ \clr[blue]  \___/ \clr[cyan]  _|_|_  \clr[magenta] \___|  \r[0] _(_)_   \clr[yellow]|_|__  \clr[yellow] _|__/  \r[0]
+_|\clr[orange]"""""\r[0]|_|\clr[orange]"""""\r[0]|_|\clr[orange]"""""\r[0]|_|\clr[orange]"""""\r[0]|_|\clr[orange]"""""\r[0]|_|\clr[orange]"""""\r[0]|_|\clr[orange]"""""\r[0]|_|\clr[orange]"""""\r[0]|_|\clr[orange]"""""\r[0]|_|\clr[orange]"""""\r[0]| 
+\style[undline]"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' \r[0]
